@@ -1,0 +1,4 @@
+Subject Lecture Practice Lab
+Math 50 80 0
+Coding 40 40 60
+Fitness 0 60 0
